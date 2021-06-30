@@ -1,19 +1,19 @@
 {
   "tokens": [
-    "ODU5Njk0OTMyOTE0MzM5ODkx.YNwbTA.-pkn0YCJu5fzX9ZsCWN1GvM0MCs",
-    "ODU5Njk1MDE3NTU5MzI2NzQx.YNwbYA.W2FK_InDyM82TmvHiRSHvoFUgQY",
-    "ODU5Njk3NDU0MTk0ODg0NjM4.YNwdpQ.ixXTmUyR6iuaMp9S6_4cMC4XmWk"],
+    "TOKEN 1 ( GİZLEMEYİ HENÜZ BİZ DE BULAMADIK ! )",
+    "TOKEN 1 ( GİZLEMEYİ HENÜZ BİZ DE BULAMADIK ! )",
+    "TOKEN 1 ( GİZLEMEYİ HENÜZ BİZ DE BULAMADIK ! )"],
 
   "channels": [
-    "859695811411968013",
-    "859695811829956608",
-    "859697314992750642"],
+    "1. BOTUN SES KANALI ID",
+    "2. BOTUN SES KANALI ID",
+    "3. BOTUN SES KANALI ID"],
 
   "staffRoles": [
-    "859695429099978762"],
+    "YETKILI ROL ID"],
 
   "unregisterRoles": [
-    "859695378646564915"],
+    "KAYITSIZ ROL ID"],
   
   "welcomeSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455073486503936/hosgeldin.mp3",
   "staffSound": "https://cdn.discordapp.com/attachments/856807536765698049/859455065609076806/yetkili.mp3"
