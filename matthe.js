@@ -17,7 +17,7 @@ tokens.forEach((token, i) => {
 
   
   client.on("ready", async () => {
-  client.user.setPresence({ activity: { name: "Bot yaptırmak için => Brita#1337"}, status: "idle" });
+  client.user.setPresence({ activity: { name: "YOUTUBE MATTHE" }, status: "idle" });
   })
   client.login(token).then(() => console.log(`${client.user.tag} Aktif!`)).catch(() => console.error(`${token} Tokeni aktif edilemedi!`));
 });

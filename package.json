@@ -1,8 +1,8 @@
 {
   "name": "discord-welcome-bot",
   "version": "0.0.1",
-  "description": "Brita Çok Tokenli Welcome Bot",
-  "main": "brita.js",
+  "description": "Matthe & Brita Çok Tokenli Welcome Bot",
+  "main": "matthe.js",
   "scripts": {
     "start": "node ."
   },
