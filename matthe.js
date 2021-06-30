@@ -5,7 +5,7 @@ tokens.forEach((token, i) => {
   const client = new Client();
   let connection;
   client.on("ready", async () => connection = await client.channels.cache.get(channels[i]).join());
-
+    
   client.on("voiceStateUpdate", async (oldState, newState) => {
     if ((oldState.channelID && !newState.channelID) || (oldState.channelID && newState.channelID && oldState.channelID === newState.channelID) || newState.member.user.bot || newState.channelID !== channels[i]) return;
     const hasStaff = newState.channel.members.some((x)=> staffRoles.some((r) => x.roles.cache.has(r)));
